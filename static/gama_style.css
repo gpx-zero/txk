@@ -1,0 +1,27 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    color: #ccc;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+body{
+    background-color: #659e95;
+    font-size: 16px;
+}
+#main-context{
+    text-align: center;
+    margin: 35px;
+    display: none;
+}
+#main-title{
+    background-color: #507570;
+    width: 600px;
+    padding: 10px;
+    margin-bottom: 35px;
+    box-shadow: 4px 4px 4px 0px #2f5050a0;
+}
+main canvas{
+    box-shadow: 4px 4px 4px 0px #2f5050a0;
+}
