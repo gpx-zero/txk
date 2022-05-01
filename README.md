@@ -7,6 +7,6 @@
 ###
 > 👋 Welcome to Txk project! <br>
 > 😁 Txk is a project about 2d short game development by Javascript ✔ <br>
-> ❤ please do not forget to help us ✔ <br>
+> ❤ Please don't forget to help us by sharing your thoughts✔ <br>
 > 📑 Just for learning... ✔
 ##
