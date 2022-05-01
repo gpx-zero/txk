@@ -1,8 +1,8 @@
-<h1> 【 TTK 】 </h1>
+<h1> 【 TXK 】 </h1>
 
 ###
-> 👋 Welcome to TTK project! <br>
-> 😁 TTK is the first project ✔ <br>
+> 👋 Welcome to Txk project! <br>
+> 😁 Txk is the first project ✔ <br>
 > 📑 Just for learn github... ✔
 ##
 <div align="center" style="margin-top: 1em; margin-bottom: 5em;">
